@@ -84,3 +84,16 @@ Routers
 
 To learn how this works, record a conversation in `Wireshark` and then play the stream back and watch the flags change from source destination
 
+![flags](https://raw.githubusercontent.com/e-anakein/OSI-Model/master/images/ws-tcp-analysis.png)
+
+- Session Hijacking
+- TCP Sequence Number Prediction
+- Syn Flooding with spoofed IP source address
+- Man-In-The-Middle
+
+- Netstat 
+
+**UDP**
+Fraggle
+
+TCP/UDP - Commonly Targeted Protocols
