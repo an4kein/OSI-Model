@@ -26,7 +26,7 @@ Table of Contents
 - ARP Spoofing
 - Man-In-The-Middle
 
-Switches / Hubs   -> Foot printing / Fingerprinting
+**Switches / Hubs   -> Foot printing / Fingerprinting**
 
 - Extract MAC Address
 - Password Guessing Attacks
@@ -40,7 +40,7 @@ Switches / Hubs   -> Foot printing / Fingerprinting
 
 ## Layer 3
 
-Foot printing / Fingerprinting
+**Foot printing / Fingerprinting**
 
 - Extract IP Addresses
 - Router Password Guessing
@@ -48,13 +48,13 @@ Foot printing / Fingerprinting
 - Spoof IP Address
 - IP
 
-IPSec
+**IPSec**
 
 - AH
 - ESP
 - Oakley, ISAKMP, IDE
 
-Routing Protocols
+**Routing Protocols**
 
 - RIP
 - OSPF
@@ -69,7 +69,7 @@ Ping of Death - Large Fragmented packet (>65000)
 
 Routers
 
-Tools
+**Tools**
 
 - Nmap
 - Netcat
