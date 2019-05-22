@@ -6,6 +6,7 @@
 - [Layer 1](#layer-1)
 - [Layer 2](#layer-2)
 - [Layer 3](#layer-3)
+- [Layer 4](#layer-4)
 
 
 
@@ -75,4 +76,11 @@ Routers
 - Netcat
 - hping
 
+## Layer 4
+
+**TCP**
+
+- SRAF UP [FLAGS]
+
+To learn how this works, record a conversation in `Wireshark` and then play the stream back and watch the flags change from source destination
 
