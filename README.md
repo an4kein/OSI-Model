@@ -64,5 +64,5 @@ Routing Protocols
 - HSRP
 - ICMP
 
-** Smurf Attack ** - Broadcast address, spoofed source address, lage packet.
+**Smurf Attack** - Broadcast address, spoofed source address, lage packet.
 
