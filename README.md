@@ -2,7 +2,7 @@
 
 ![OSI7](https://www.cloudflare.com/img/learning/ddos/what-is-a-ddos-attack/osi-model-7-layers.svg)
 
-Table of Contents
+## Table of Contents
 - [Layer 1](#layer-1)
 - [Layer 2](#layer-2)
 - [Layer 3](#layer-3)
