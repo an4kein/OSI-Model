@@ -31,8 +31,9 @@
 - ARP Spoofing
 - Man-In-The-Middle
 
-**Switches / Hubs   -> Foot printing / Fingerprinting**
+**Switches / Hubs**
 
+- Foot printing / Fingerprinting
 - Extract MAC Address
 - Password Guessing Attacks
 - Man-In-The-Middle
@@ -45,8 +46,7 @@
 
 ## Layer 3
 
-**Foot printing / Fingerprinting**
-
+- Foot printing / Fingerprinting
 - Extract IP Addresses
 - Router Password Guessing
 - Man-In-The-Minddle
