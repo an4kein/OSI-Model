@@ -65,4 +65,14 @@ Routing Protocols
 - ICMP
 
 **Smurf Attack** - Broadcast address, spoofed source address, lage packet.
+Ping of Death - Large Fragmented packet (>65000)
+
+Routers
+
+Tools
+
+- Nmap
+- Netcat
+- hping
+
 
