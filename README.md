@@ -8,6 +8,8 @@
 - [Layer 3](#layer-3)
 - [Layer 4](#layer-4)
 - [Layer 5](#layer-5)
+- [Layer 6](#layer-6)
+
 
 
 
@@ -107,3 +109,13 @@ Commonly Targeted Protocols **(TCP/UDP)**
 - SMB
 
 Commonly Targeted Protocols **(SQL, NFS, RPC)**
+
+## Layer 6
+
+- File Type Conversions
+- Encoding / Decondig
+- Encryption / Decryption
+- HEX Editing
+- Change File Type
+
+Commonly Targeted Protocols **(.html, .doc, .php, .xml, .txt, .mp3, .wav)**
