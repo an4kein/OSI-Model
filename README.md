@@ -152,5 +152,3 @@ Commonly Targeted Protocols **(.html, .doc, .php, .xml, .txt, .mp3, .wav)**
 - Buffer Overflows
 
 Commonly Targeted Protocols **(HTTP, POP3, SMTP, IMAP, DNS)** https://en.wikibooks.org/wiki/Network_Plus_Certification/Technologies/Common_Protocols
-
-Source: https://www.youtube.com/watch?v=CjVgWOviYiU&feature=youtu.be
