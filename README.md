@@ -9,6 +9,7 @@
 - [Layer 4](#layer-4)
 - [Layer 5](#layer-5)
 - [Layer 6](#layer-6)
+- [Layer 7](#layer-7)
 
 
 
@@ -119,3 +120,35 @@ Commonly Targeted Protocols **(SQL, NFS, RPC)**
 - Change File Type
 
 Commonly Targeted Protocols **(.html, .doc, .php, .xml, .txt, .mp3, .wav)**
+
+## Layer 7
+
+- Use of Stolen Login Credentials
+- Exploitation of backdoor / Command Control
+- Brute Force and Dictionary
+- OS Commanding
+- Default Passowrd / Configs
+- Foot printing / Fingerprinting
+- Cross Site Scripting
+- Extract Usernames or Accounts
+- DNS POisoning
+- DHCP Starvation
+- Service Flood Requests
+- Application Hijacking
+- Tools
+   - Back orifice, Netcat, tini, NetBus, FU, Brutus
+- Maintain Access with Backdoors
+- Rootkits and Trojans
+- Data Modification Attacks
+- Password Guessing attacks
+- Man-In-The-Middle
+- Identify Spoofing
+
+- Exploitation of Authentication
+      - Replay Attacks
+- Exploitation of Insuffcient Authorization 
+- Man-In-The-Middle
+- URL Obfuscation
+- Buffer Overflows
+
+Commonly Targeted Protocols **(HTTP, POP3, SMTP, IMAP, DNS)** https://en.wikibooks.org/wiki/Network_Plus_Certification/Technologies/Common_Protocols
