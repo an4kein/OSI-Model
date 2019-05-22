@@ -136,7 +136,7 @@ Commonly Targeted Protocols **(.html, .doc, .php, .xml, .txt, .mp3, .wav)**
 - Service Flood Requests
 - Application Hijacking
 - Tools
-   - Back orifice, Netcat, tini, NetBus, FU, Brutus
+   - Back orifice, Netcat, tini, NetBus, FU, Brutus, etc
 - Maintain Access with Backdoors
 - Rootkits and Trojans
 - Data Modification Attacks
